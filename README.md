@@ -2,6 +2,11 @@
 **Freight Cost Prediction & Invoice Risk Flagging**
 
 ---
+## 🚀 Live Demo
+https://vendor-invoice-intelligence-app-a3bivmymgd94jcfbz2cfuf.streamlit.app/
+
+## 💻 GitHub Repository
+https://github.com/kaushal-chaurasia/vendor-invoice-intelligence-portal
 
 ## 📚 Table of Contents
 
@@ -124,8 +129,9 @@ Machine Learning Projects/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/kaushal-chaurasia/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/kaushal-chaurasia/vendor-invoice-intelligence-portal.git
+
+cd vendor-invoice-intelligence-portal
 ---
 2️⃣ Install dependencies
 
