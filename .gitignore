@@ -1,0 +1,3 @@
+*.db
+freight_cost_prediction/data/inventory.db
+invoice_flagging/data/inventory.db
